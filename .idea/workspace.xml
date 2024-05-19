@@ -12,10 +12,10 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/QuanLySinhVien_Singleton.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/QuanlySinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,7 @@
       <updated>1716044289012</updated>
       <workItem from="1716044289961" duration="1508000" />
       <workItem from="1716045850035" duration="43000" />
-      <workItem from="1716047017993" duration="1756000" />
+      <workItem from="1716047017993" duration="1928000" />
     </task>
     <servers />
   </component>

@@ -19,7 +19,7 @@ public class QuanlySinhVien {
     public List<String> fetchAllStudents() throws SQLException {
         if (this.cache == null) {
             Statement stmt = connection.get().createStatement();
-            ResultSet rs = stmt.executeQuery("SELECT * FROM student");
+            ResultSet rs = stmt.executeQuery("SELECT * FROM sinhvien");
             List<String> students = new ArrayList<>();
             while (rs.next()) {
                 String student = String.format("MaSinhVien: %d, HoTen: %s, GioiTinh: %b, NgaySinh: %s",
